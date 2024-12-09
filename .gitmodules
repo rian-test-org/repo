@@ -1,0 +1,3 @@
+[submodule "repo-for-submodule"]
+	path = repo-for-submodule
+	url = https://github.com/rian-test-org/repo-for-submodule.git
